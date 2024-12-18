@@ -58,7 +58,7 @@ Restart=always
 RestartSec=1
 User=root
 WorkingDirectory=/home/attacker/cobaltstrike
-ExecStart=/home/attacker/cobaltstrike/teamserver 10.10.5.50 Passw0rd! c2-profiles/normal/webbug.profile
+ExecStart=/home/attacker/cobaltstrike/teamserver <your-ip> <your-password> c2-profiles/normal/webbug.profile
 
 [Install]
 WantedBy=multi-user.target
