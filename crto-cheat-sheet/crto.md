@@ -1,5 +1,7 @@
 # CRTO Cheat Sheet
 
+**Disclaimer:** This cheat sheet is based on content from the CRTO certification course and is intended to assist red teamers in their learning process. All credit for the tools, techniques, and concepts belongs to their original authors and the creators of the CRTO course.
+
 ### **Command & Control**
 
 **Starting the Team Server**
