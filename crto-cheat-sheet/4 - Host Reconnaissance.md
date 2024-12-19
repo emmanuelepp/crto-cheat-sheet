@@ -58,9 +58,6 @@ printscreen
 
 Takes a single screenshot.
 
-bash
-Copy code
-
 ```bash
 screenshot
 ```
