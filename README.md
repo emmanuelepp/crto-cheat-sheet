@@ -1,6 +1,6 @@
 # CRTO Cheat Sheet
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5c9b0123-5f41-452f-b2c2-2809cbac9aa0" alt="image" width="400">
+                                      <img src="https://github.com/user-attachments/assets/5c9b0123-5f41-452f-b2c2-2809cbac9aa0" alt="image" width="400">
 </div>
 
 
