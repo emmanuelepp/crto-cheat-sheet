@@ -13,3 +13,15 @@
 * [Initial Compromise](./crto-cheat-sheet/3%20-%20Initial%20Compromise.md)
 * [Host Reconnaissance](./crto-cheat-sheet/4%20-%20Host%20Reconnaissance.md)
 * [Host Persistence](./crto-cheat-sheet/5%20-%20Host%20Persistence.md)
+
+---
+
+## 🚀 About This Project
+This project is maintained by [emmanuelepp](https://github.com/emmanuelepp). Contributions, issues, and feature requests are welcome!
+
+## 🛠 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**⭐️ Consider leaving a star if you find this useful!**
