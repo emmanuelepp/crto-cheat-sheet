@@ -9,7 +9,7 @@
 ### Sections
 
 * [Command & Control](./crto-cheat-sheet/1%20-%20Command%20%26%20Control.md)
-* [External Reconnaissance](./2%20-%20External%20Reconnaissance.md)
-* [Initial Compromise](./3%20-%20Initial%20Compromise.md)
-* [Host Reconnaissance](./4%20-%20Host%20Reconnaissance.md)
-* [Host Persistence](./5%20-%20Host%20Persistence.md)
+* [External Reconnaissance](./crto-cheat-sheet/2%20-%20External%20Reconnaissance.md)
+* [Initial Compromise](./crto-cheat-sheet/3%20-%20Initial%20Compromise.md)
+* [Host Reconnaissance](./crto-cheat-sheet/4%20-%20Host%20Reconnaissance.md)
+* [Host Persistence](./crto-cheat-sheet/5%20-%20Host%20Persistence.md)
