@@ -119,12 +119,12 @@ mv tcp-local_x64.svc.exe Service.exe
 Stop and restart the service to execute the malicious binary:
 
 ```bash
-run sc stop VulnService1
+run sc stop <service>
 
 ```
 
 ```bash
-run sc start VulnService1
+run sc start <service>
 ```
 
 ---
@@ -156,7 +156,7 @@ Remove the malicious binary and restart the service after completing the task:
 ```
 
 ```bash
-    run sc start VulnService1
+    run sc start <service>
 ```
 
 ### **Why Use `sc.exe qc` Instead of Just `Get-WmiObject`**
