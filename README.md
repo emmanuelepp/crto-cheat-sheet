@@ -7,7 +7,7 @@
 **Disclaimer:** This cheat sheet is based on content from the CRTO certification course and is intended to assist red teamers in their learning process. All credit for the tools, techniques, and concepts belongs to their original authors and the creators of the CRTO course.
 
 ### Sections
-Host Privilege Escalation.md
+
 * [Command & Control](./crto-cheat-sheet/1%20-%20Command%20%26%20Control.md)
 * [External Reconnaissance](./crto-cheat-sheet/2%20-%20External%20Reconnaissance.md)
 * [Initial Compromise](./crto-cheat-sheet/3%20-%20Initial%20Compromise.md)
