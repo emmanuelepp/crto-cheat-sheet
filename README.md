@@ -13,7 +13,8 @@ Host Privilege Escalation.md
 * [Initial Compromise](./crto-cheat-sheet/3%20-%20Initial%20Compromise.md)
 * [Host Reconnaissance](./crto-cheat-sheet/4%20-%20Host%20Reconnaissance.md)
 * [Host Persistence](./crto-cheat-sheet/5%20-%20Host%20Persistence.md)
-* [Host Privilege Escalation](./crto-cheat-sheet/5%20-%20Host%20Privilege%20Escalation.md)
+* [Host Privilege Escalation](./crto-cheat-sheet/6%20-%20Host%20Privilege%20Escalation.md)
+
 
 ---
 
